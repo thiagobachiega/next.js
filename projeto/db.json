@@ -1,0 +1,80 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "idade": 22,
+      "cursos": [
+        "Html",
+        "Css",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "": "30",
+      "id": 2
+    },
+    {
+      "idade": "22",
+      "id": 3
+    },
+    {
+      "idade": "21",
+      "id": 4
+    },
+    {
+      "nome": "Anderson",
+      "id": 5
+    },
+    {
+      "idade": "12",
+      "id": 6
+    },
+    {
+      "idade": "1212",
+      "id": 7
+    },
+    {
+      "idade": "22",
+      "id": 8
+    },
+    {
+      "idade": "22",
+      "id": 9
+    },
+    {
+      "nome": "Thiago",
+      "idade": "22",
+      "id": 10
+    },
+    {
+      "nome": "Rafinha",
+      "idade": "33",
+      "cursos": "JavaScript",
+      "id": 11
+    },
+    {
+      "cursos": "React",
+      "id": 12
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Html"
+    },
+    {
+      "id": 2,
+      "nome": "Css"
+    },
+    {
+      "id": 3,
+      "nome": "JavaScript"
+    },
+    {
+      "id": 4,
+      "nome": "React"
+    }
+  ]
+}

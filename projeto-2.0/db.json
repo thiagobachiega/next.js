@@ -1,0 +1,39 @@
+{
+  "alunos": [
+    {
+      "nome": "Cleiton",
+      "idade": "30",
+      "cursos": "JavaScript",
+      "id": 1
+    },
+    {
+      "nome": "José",
+      "idade": "25",
+      "id": 2
+    },
+    {
+      "nome": "Thiago",
+      "idade": "22",
+      "cursos": "React",
+      "id": 3
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Html"
+    },
+    {
+      "id": 2,
+      "nome": "Css"
+    },
+    {
+      "id": 3,
+      "nome": "JavaScript"
+    },
+    {
+      "id": 4,
+      "nome": "React"
+    }
+  ]
+}
